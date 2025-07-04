@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="75e70d5d33622a107aaf7e819e5c7bd4" label="Vehicles" max_length="40" name="u_vehicles" type="collection"/>
+</database>
